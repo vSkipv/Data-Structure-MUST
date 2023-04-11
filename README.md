@@ -1,2 +1,2 @@
 # Data-Structure-MUST
-كل هيتحاسب 
+كله هيتحاسب 
